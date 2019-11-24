@@ -5,7 +5,7 @@ link to heroku webapp:
 https://cs56-f19-lab07-irismoini.herokuapp.com/
 
 link to Travis CI:
-https://travis-ci.org
+https://travis-ci.org/ucsb-cs56-f19/lab07-irismoini
 
 A simple Spring Boot webapp using:
 * Thymeleaf templating
